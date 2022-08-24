@@ -114,6 +114,3 @@ Run the bolow commands to install laravel ui package
     
 
 **Auther**: [Saleh Muhammad](https://github.com/Salehktk)
-**See More**
-[Laravel SMS NOtification by using Vonage API](https://github.com/Salehktk/Laravel-SMS-Notification-Step-by-Step)
-
