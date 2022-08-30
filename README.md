@@ -31,7 +31,7 @@ In this Repository, you will Learn complete laravel application instalation on l
 ## 1. Create application
 run this command. replace **your-app-name** with your app name
 
-    composer create-project laravel/laravel:^8.0 your-app-name
+    composer create-project laravel/laravel your-app-name "8.*"
     
 ## 2. Change Directory
 
